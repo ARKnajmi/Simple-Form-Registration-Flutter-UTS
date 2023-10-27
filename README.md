@@ -16,7 +16,7 @@ This is a simple code example to create a registration form using Flutter. The a
     ```bash
    cd Simple-Form-Registration-Flutter-UTS
 
-4. Run the following command to download and install the required dependencies:
+4. (MUST) Run the following command to download and install the required dependencies: 
    
    ```bash
     flutter pub get
