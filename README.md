@@ -25,15 +25,11 @@ This is a simple code example to create a registration form using Flutter. The a
 
 1. Ensure you have an emulator or a physical device connected to your computer.
    
-3. Please create your own flutter base folder because this repository only provide the assets,lib/,main.dart,formregistration.dart, and pubspec.yaml
-   ```bash
-   flutter create yourfoldername
-
-4. After that, you can copy or move the file or folder provided on the repository to your own flutter project base folder
-   
-5. Launch the application with the following command:
+2. Launch the application with the following command:
     ```bash
     flutter run
+    
+The application will now start on your emulator or device.
 
 ## Usage
 
