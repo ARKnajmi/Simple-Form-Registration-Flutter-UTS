@@ -1,16 +1,55 @@
-# for_uts
+# Simple-Form-Registration-Flutter-UTS
 
-A new Flutter project.
+This is a simple code example to create a registration form using Flutter. The app allows users to register by filling in basic information such as name, email, phone number, and date of birth.
 
-## Getting Started
+## Instalation
 
-This project is a starting point for a Flutter application.
+1. Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed on your system.
 
-A few resources to get you started if this is your first Flutter project:
+2. Clone this repository to your system.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/ARKnajmi/Simple-Form-Registration-Flutter-UTS.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Navigate to the project directory.
+   
+    ```bash
+   cd Simple-Form-Registration-Flutter-UTS
+
+4. Run the following command to download and install the required dependencies:
+   
+   ```bash
+    flutter pub get
+
+## Running the Application
+
+1. Ensure you have an emulator or a physical device connected to your computer.
+   
+3. Please create your own flutter base folder because this repository only provide the assets,lib/,main.dart,formregistration.dart, and pubspec.yaml
+   ```bash
+   flutter create yourfoldername
+
+4. After that, you can copy or move the file or folder provided on the repository to your own flutter project base folder
+   
+5. Launch the application with the following command:
+    ```bash
+    flutter run
+
+## Usage
+
+This application allows users to register by providing the following information:
+
+- Name
+- Email
+- Phone Number
+- Birthday/Date of Birth
+  
+Users can press the "Submit" button to complete the registration. The provided information will be validated.
+
+## Project Structure
+
+- lib/: The main directory of the Flutter application.
+- main.dart: The entry point of the application.
+- formregistration.dart : where all the code related to the registration form is created.
+- assets/: Directory containing the assets that is used.
+- pubspec.yaml: The Flutter project configuration file.
