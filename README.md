@@ -1,4 +1,4 @@
-# Simple-Form-Registration-Flutter-UTS
+# Simple Form Registration Flutter
 
 This is a simple code example to create a registration form using Flutter. The app allows users to register by filling in basic information such as name, email, phone number, and date of birth.
 
