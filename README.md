@@ -18,8 +18,8 @@ This is a simple code example to create a registration form using Flutter. The a
 
 4. (MUST) Run the following command to download and install the required dependencies: 
    
-   ```bash
-    flutter pub get
+    ```bash
+   flutter pub get
 
 ## Running the Application
 
